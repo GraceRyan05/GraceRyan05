@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Grace Ryan, Computer Forensics and Security, SETU Waterford" width="100%"/>
+<img src="./assets/header.svg" alt="Grace Ryan, Digital Forensics and Security, SETU Waterford" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Computer+Forensics+%26+Security+%40+SETU;Defensive+security+intern+%7C+Sun+Life+2026;CTF+player.+Evidence+hunter.+Builder.;Learning.+Investigating.+Building." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Computer+Forensics+%26+Security+%40+SETU;Interested+in+Defensive+Security;CTF+player.+Evidence+hunter.+Builder.;Learning.+Investigating.+Building." alt="Animated introduction"/>
 
 <br/>
 
@@ -27,8 +27,7 @@
 │ SUBJECT        Grace Ryan                                    │
 │ DEGREE         BSc (Hons) Computer Forensics & Security      │
 │ INSTITUTION    SETU Waterford                                │
-│ LAST POSTING   Defensive Security Intern.                    │
-│ TROPHIES       Multiple CTFs: winning team                   │
+│ FOCUS          Defensive security                            │
 │ LOOKING FOR    Graduate roles in cybersecurity               │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -45,7 +44,7 @@
 
 I'm a fourth-year BSc (Hons) Computer Forensics & Security student at **SETU Waterford**.
 
-I recently completed a **Defensive Security Internship**, and I enjoy security-related projects, tackling CTF challenges with my university teammates, and learning how security issues are investigated and analysed.
+I enjoy security-related projects, tackling CTF challenges, and learning how security issues are investigated and analysed.
 
 I'm finishing my degree and looking for graduate opportunities in cybersecurity.
 
@@ -108,16 +107,14 @@ I'm finishing my degree and looking for graduate opportunities in cybersecurity.
 
 <div align="center">
 
-## `03` // FIELD RECORD
+## `03` // EVIDENCE LOCKER
 
-<sub>Expand a file to read it.</sub>
+<sub>Expand the file to read it.</sub>
 
 </div>
 
-
-
 <details>
-<summary><b>🔐 EXHIBIT E — Encrypted note (CTF-style)</b></summary>
+<summary><b>🔐 EXHIBIT A — Encrypted note (CTF-style)</b></summary>
 <br/>
 
 Found in the evidence locker. Can you read it?
