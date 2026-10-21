@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900" height="160" role="img" aria-label="Always learning, always investigating.">
+  <defs>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0891b2"/><stop offset="0.5" stop-color="#4c1d95"/><stop offset="1" stop-color="#020617"/></linearGradient>
+    <linearGradient id="w2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7c3aed"/><stop offset="0.5" stop-color="#c026d3"/><stop offset="1" stop-color="#0891b2"/></linearGradient>
+  </defs>
+  <clipPath id="fc"><rect width="900" height="160" rx="20"/></clipPath>
+  <g clip-path="url(#fc)">
+  <rect width="900" height="160" fill="#030712"/>
+  <g opacity="0.55"><path d="M0 92 Q112 70 225 92 T450 92 Q562 70 675 92 T900 92 Q1012 70 1125 92 T1350 92 Q1462 70 1575 92 T1800 92 V160 H0Z" fill="url(#w2)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-450 0" dur="9s" repeatCount="indefinite"/></path></g>
+  <g opacity="0.9"><path d="M0 112 Q112 96 225 112 T450 112 Q562 96 675 112 T900 112 Q1012 96 1125 112 T1350 112 Q1462 96 1575 112 T1800 112 V160 H0Z" fill="url(#w1)">
+    <animateTransform attributeName="transform" type="translate" values="-450 0;0 0" dur="13s" repeatCount="indefinite"/></path></g>
+  <text x="450" y="62" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="17" fill="#cbd5e1" letter-spacing="3">Always learning, always investigating.</text>
+  </g>
+</svg>
