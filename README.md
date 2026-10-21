@@ -2,17 +2,20 @@
 
 <img src="./assets/header.svg" alt="Grace Ryan, Digital Forensics and Security, SETU Waterford" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Computer+Forensics+%26+Security+%40+SETU;Interested+in+Defensive+Security;CTF+player.+Evidence+hunter.+Builder.;Learning.+Investigating.+Building." alt="Animated introduction"/>
-
 <br/>
 
 <img src="https://img.shields.io/badge/4TH_YEAR-STUDENT-7c3aed?style=for-the-badge" alt="Fourth year student"/>
 <img src="https://img.shields.io/badge/DEFENSIVE-SECURITY-0891b2?style=for-the-badge" alt="Defensive security"/>
 <img src="https://img.shields.io/badge/CTF-PLAYER-c026d3?style=for-the-badge" alt="CTF player"/>
+<img src="https://img.shields.io/github/followers/GraceRyan05?style=for-the-badge&logo=github&color=4c1d95" alt="GitHub followers"/>
+
+<br/><br/>
+
+<img src="./assets/terminal.svg" alt="Terminal: whoami, interests, security lab, status" width="100%"/>
 
 </div>
 
----
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
 
@@ -32,15 +35,11 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
----
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
 
 ## `01` // ABOUT ME
-
-</div>
-
-<div align="center">
 
 I'm a fourth-year BSc (Hons) Computer Forensics & Security student at **SETU Waterford**.
 
@@ -54,11 +53,33 @@ I'm finishing my degree and looking for graduate opportunities in cybersecurity.
 
 </div>
 
----
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
 
-## `02` // AREAS OF INTEREST
+## `02` // HOW I THINK ABOUT AN INCIDENT
+
+<sub>The mindset I'm building towards, from first signal to lessons learned.</sub>
+
+</div>
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1e1b4b','primaryTextColor':'#e2e8f0','primaryBorderColor':'#a78bfa','lineColor':'#22d3ee','secondaryColor':'#0c4a6e','tertiaryColor':'#050816','fontFamily':'monospace'}}}%%
+flowchart LR
+    A([🚨 Signal]) --> B{🔎 Triage}
+    B -- noise --> C[📝 Document and close]
+    B -- real --> D[🧬 Investigate]
+    D --> E[🧱 Contain]
+    E --> F[🔬 Preserve evidence]
+    F --> G[📚 Lessons learned]
+    G -. makes defences better .-> A
+```
+
+<img src="./assets/divider.svg" alt="" width="100%"/>
+
+<div align="center">
+
+## `03` // AREAS OF INTEREST
 
 <table>
 <tr>
@@ -103,31 +124,7 @@ I'm finishing my degree and looking for graduate opportunities in cybersecurity.
 
 </div>
 
----
-
-<div align="center">
-
-## `03` // EVIDENCE LOCKER
-
-<sub>Expand the file to read it.</sub>
-
-</div>
-
-<details>
-<summary><b>🔐 EXHIBIT A — Encrypted note (CTF-style)</b></summary>
-<br/>
-
-Found in the evidence locker. Can you read it?
-
-```text
-ZmxhZ3tncmFjZV93YXNfaGVyZV8yMDI2fQ==
-```
-
-<sub>Hint: it isn't encryption, just encoding. 😉</sub>
-
-</details>
-
----
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
 
@@ -143,7 +140,7 @@ ZmxhZ3tncmFjZV93YXNfaGVyZV8yMDI2fQ==
 
 </div>
 
----
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
 
@@ -202,7 +199,7 @@ A Python project related to security triage.
 
 </div>
 
----
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
 
@@ -217,20 +214,20 @@ A Python project related to security triage.
 
 </div>
 
----
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
 
 ## `07` // THREAT HUNT: MY CONTRIBUTIONS
 
-<sub>A snake hunts down my contribution graph. Every green square is a day I shipped something.<br/>Regenerated automatically every 12 hours.</sub>
+<sub>A snake hunts down my contribution graph. Every purple square is a day I shipped something.<br/>Regenerated automatically every 12 hours.</sub>
 
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GraceRyan05/GraceRyan05/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GraceRyan05/GraceRyan05/output/github-snake.svg"/>
-  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/GraceRyan05/GraceRyan05/output/github-snake-dark.svg"/>
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/GraceRyan05/GraceRyan05/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
 <br/><br/>
@@ -239,7 +236,7 @@ A Python project related to security triage.
 
 </div>
 
----
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
 
@@ -259,11 +256,35 @@ A Python project related to security triage.
 
 </div>
 
----
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
 
-## `09` // CONNECT
+## `09` // EVIDENCE LOCKER
+
+<sub>Expand the file to read it.</sub>
+
+</div>
+
+<details>
+<summary><b>🔐 EXHIBIT A — Encrypted note (CTF-style)</b></summary>
+<br/>
+
+Found in the evidence locker. Can you read it?
+
+```text
+ZmxhZ3tncmFjZV93YXNfaGVyZV8yMDI2fQ==
+```
+
+<sub>Hint: it isn't encryption, just encoding. 😉</sub>
+
+</details>
+
+<img src="./assets/divider.svg" alt="" width="100%"/>
+
+<div align="center">
+
+## `10` // CONNECT
 
 <a href="https://www.linkedin.com/in/grace--ryan/">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
@@ -273,10 +294,8 @@ A Python project related to security triage.
 <img src="https://img.shields.io/badge/GITHUB-FOLLOW-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
 </a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0891b2,50:4c1d95,100:020617" alt="Neon footer"/>
-
-<code>Always learning, always investigating.</code>
-
 </div>
+
+<br/>
+
+<img src="./assets/footer.svg" alt="Always learning, always investigating." width="100%"/>
