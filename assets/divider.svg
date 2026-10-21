@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 44" width="900" height="44" role="presentation">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0"/><stop offset="0.3" stop-color="#a78bfa"/><stop offset="0.5" stop-color="#e879f9"/><stop offset="0.7" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="gl" x="-5%" y="-100%" width="110%" height="300%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <path d="M0 22H300l12 0 8-14 10 28 10-34 10 20 8-8H600H900" fill="none" stroke="#4c1d95" stroke-opacity="0.55" stroke-width="1.5"/>
+  <path d="M0 22H300l12 0 8-14 10 28 10-34 10 20 8-8H600H900" pathLength="1" fill="none" stroke="url(#g)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="0.22 0.78" filter="url(#gl)">
+    <animate attributeName="stroke-dashoffset" values="0.22;-0.78" dur="3.2s" repeatCount="indefinite"/>
+  </path>
+</svg>
