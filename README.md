@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Grace Ryan, Digital Forensics and Security, SETU Waterford" width="100%"/>
+<img src="./assets/terminal.svg" alt="Terminal: whoami, interests, security lab, status" width="100%"/>
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-<img src="./assets/terminal.svg" alt="Terminal: whoami, interests, security lab, status" width="100%"/>
+
 
 </div>
 
